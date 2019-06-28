@@ -1,7 +1,5 @@
 package utility
 
-import "fmt"
-
 type countriesMap struct {
 	data map[int]map[string]string
 }
